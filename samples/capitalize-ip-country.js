@@ -1,6 +1,7 @@
 /**
  * Capitalizes the first letter of every part of a contact's ip country.
  * Before adding this custom code, copy the value of "ip_country" to an intermediate property "ip_country_text_transform".
+ */
 
 const IP_COUNTRY_TEXT_TRANSFORM_PROP = "ip_country_text_transform";
 
